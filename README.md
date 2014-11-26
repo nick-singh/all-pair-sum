@@ -1,0 +1,1 @@
+A[1...n] is an array containing n integers. Find all pairs of numbers which add up to some given number p. Solve in O(n log n)
